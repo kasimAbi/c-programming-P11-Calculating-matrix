@@ -1,0 +1,6 @@
+﻿  P11.cpp
+c:\users\kamer001\desktop\uni\programmieren\für c 12.12.2016\bessere version\projekt11\p11.cpp(320): warning C4101: "index3": Unreferenzierte lokale Variable
+c:\users\kamer001\desktop\uni\programmieren\für c 12.12.2016\bessere version\projekt11\p11.cpp(320): warning C4101: "wert": Unreferenzierte lokale Variable
+c:\users\kamer001\desktop\uni\programmieren\für c 12.12.2016\bessere version\projekt11\p11.cpp(337): warning C4101: "index3": Unreferenzierte lokale Variable
+  Projekt11.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Für c 12.12.2016\Bessere Version\Projekt11\Debug\Projekt11.exe
+  Projekt11.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Für c 12.12.2016\Bessere Version\Projekt11\Debug\Projekt11.pdb (Partial PDB)
